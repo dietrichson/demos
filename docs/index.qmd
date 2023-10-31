@@ -23,6 +23,7 @@ editor: visual
 | -   [Tic Tac Toe - Gaturrín: Proof of Concept](https://chi2.shinyapps.io/tic-tac-toe/)\                            |     Compatible with: Unizin                                                          |
 |     Compatible with: Chi2 Mobile App. GatAi                                                                        |                                                                                      |
 |                                                                                                                    | -   [Grade Prediction](https://chi2.shinyapps.io/predictive_demo/)\                  |
-|                                                                                                                    |     Predictive model with Local Model Evaluation (LME)\                              |
+| ## Moodle                                                                                                          |     Predictive model with Local Model Evaluation (LME)\                              |
 |                                                                                                                    |     Compatible with: Unizin, Moodle                                                  |
+| -   [Moodle R: Helper functions to Analyze Moodle Data](https://chi2labs.github.io/moodleR/)                       |                                                                                      |
 +--------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
