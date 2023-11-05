@@ -20,10 +20,12 @@ editor: visual
 | -   [Gatai v. X-Mas-Tree](https://chi2labs.github.io/x-mas-3/q/)\                                                  |                                                                                      |
 |     Write-up of Reinforcement Learning Project                                                                     | -   [Learning Analytics Unizin](https://chi2.shinyapps.io/unizin_demo/?)\            |
 |                                                                                                                    |     Chi2 Learning Analytics for Unizin\                                              |
-| -   [Tic Tac Toe - Gaturrín: Proof of Concept](https://chi2.shinyapps.io/tic-tac-toe/)\                            |     Compatible with: Unizin                                                          |
-|     Compatible with: Chi2 Mobile App. GatAi                                                                        |                                                                                      |
-|                                                                                                                    | -   [Grade Prediction](https://chi2.shinyapps.io/predictive_demo/)\                  |
-| ## Moodle                                                                                                          |     Predictive model with Local Model Evaluation (LME)\                              |
+| -   [Gaturrín](https://chi2labs.github.io/gaturrin): Presentation.                                                 |     Compatible with: Unizin                                                          |
+|                                                                                                                    |                                                                                      |
+| -   [Tic Tac Toe - Gaturrín: Proof of Concept](https://chi2.shinyapps.io/tic-tac-toe/)\                            | -   [Grade Prediction](https://chi2.shinyapps.io/predictive_demo/)\                  |
+|     Compatible with: Chi2 Mobile App. GatAi                                                                        |     Predictive model with Local Model Evaluation (LME)\                              |
 |                                                                                                                    |     Compatible with: Unizin, Moodle                                                  |
+| ## Moodle                                                                                                          |                                                                                      |
+|                                                                                                                    |                                                                                      |
 | -   [Moodle R: Helper functions to Analyze Moodle Data](https://chi2labs.github.io/moodleR/)                       |                                                                                      |
 +--------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
