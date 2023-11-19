@@ -6,10 +6,10 @@ editor: visual
 ---
 
 +--------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
-| ## Chi Square Mobile                                                                                               | ## Learning Analytics Apps (POCs)                                                    |
+| ## Chi Square Mobile, Kai & Kai+                                                                                   | ## Learning Analytics Apps (POCs)                                                    |
 |                                                                                                                    |                                                                                      |
 | -   [Chi Square Mobile: User Manual](https://chi2labs.github.io/mobile-manual/)                                    | -   [Activity Report Single Course](https://chi2.shinyapps.io/activityreport/)\      |
-| -   [Kai++ (presentation)](https://chi2labs.github.io/mobile-manual/kai-plus-plus.html)                            |     Compatibility: Moodle, Savvas, Mobile, Unizin                                    |
+| -   [Kai+ (presentation)](https://chi2labs.github.io/mobile-manual/kai-plus-plus.html)                             |     Compatibility: Moodle, Savvas, Mobile, Unizin                                    |
 |                                                                                                                    |                                                                                      |
 | ## Presentations                                                                                                   | -   [Chi2 Learning Analytics for LMS](https://chi2.shinyapps.io/POC_chi2lms/)\       |
 |                                                                                                                    |     Compatible with: Moodle, Savvas, Mobile, Unizin                                  |
